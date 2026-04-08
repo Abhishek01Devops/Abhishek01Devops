@@ -34,7 +34,7 @@ I'm on a structured 8-month journey to become a DevOps Engineer — building han
 📖 [DevOps Journey](https://github.com/Abhishek01Devops/Devops-journey) — Day-by-day learning log
 
 ```
-✅ Phase 1 — Linux & Bash          Day 24/30  — In progress
+✅ Phase 1 — Linux & Bash          Day 30/30   — Competed
 ⬜ Phase 2 — Docker                            — Up next
 ⬜ Phase 3 — CI/CD (GitHub Actions)            — Coming soon
 ⬜ Phase 4 — AWS Cloud                         — Planned
@@ -45,10 +45,9 @@ I'm on a structured 8-month journey to become a DevOps Engineer — building han
 ---
 
 ## 📊 GitHub Stats
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek01Devops&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek01Devops&show_icons=true&theme=default&hide_border=true)
-
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek01Devops&theme=tokyonight&hide_border=true)
 
 ## 🤝 Connect With Me
 
